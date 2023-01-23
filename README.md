@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Michał</h1>
 <h3 align="center">A systematic and creative project and events coordinator in Poland</h3>
 
-<img align="right" src="https://media.tenor.com/WthWmIXI24cAAAAd/work-working.gif" width="350" height="300" />
+<img align="right" src="https://media.tenor.com/WthWmIXI24cAAAAd/work-working.gif" width="350" height="270" />
 
 - 🔭 I’m currently working on **several projects as an independent contractor in organizing meetings, incentives, conferences, and events**
 
